@@ -16,3 +16,7 @@ nav {
 img {
   image-orientation: center;
 }
+
+figcaption{
+  text-align: center;
+}
